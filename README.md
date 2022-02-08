@@ -12,7 +12,7 @@ In this problem, you will be given a program for stack-based machine. You need t
 指令 :
 | Instructions  | run | 
 |-------|:-----:|
-| load | push 1 operand into stack |
+| load | push back 1 operand to stack |
 | add | pop 2 operands from stack then perform addition and push back the result |
 | sub | pop 2 operands from stack then perform subtraction and push back the result |
 | mul | pop 2 operands from stack then perform multiplication and push back the result |
