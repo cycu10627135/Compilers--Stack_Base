@@ -14,3 +14,4 @@ In this problem, you will be given a program for stack-based machine. You need t
 |-------|:-----:|:-----:|
 | load 1<br /> load 2<br /> sub<br /> load 5<br /> mod<br /> | 0 | 5 % (2-1) = 0 |
 | load 3<br /> load 4<br /> add<br /> inc<br /> inc<br /> | Invalid format | If after finish the program, there are more than 1 numbers in the stack it will be consider invalid. |
+| load 1<br /> load 1<br /> add<br /> sub<br /> | Invalid format | No enough operands in stack to perform sub. |
