@@ -11,5 +11,6 @@ In this problem, you will be given a program for stack-based machine. You need t
 ### 參考答案
   
 | Sample Input  | Sample Output | Explanation |
-|load 1<br /> load 2<br /> sub<br /> load 5<br /> mod<br /> |:-----:|:-----:|
+|-------|:-----:|:-----:|
+|load 1<br /> load 2<br /> sub<br /> load 5<br /> mod<br /> | 0 | 5 % (2-1) = 0 |
 
