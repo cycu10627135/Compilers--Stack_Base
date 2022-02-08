@@ -6,4 +6,4 @@ temporary value in calculation.
 It works as follow:
 
 
-![圖片參考名稱](https://drive.google.com/file/d/174ipqs3_4SaQ3DEYuln0WZzYvrt1drmP/view "Logo")
+![圖片參考名稱](C:\Users\陳晏生\Desktop\stack.PNG "Stack")
