@@ -6,4 +6,4 @@ temporary value in calculation.
 It works as follow:
 
 
-![圖片參考名稱]( "Stack")
+![圖片參考名稱](https://github.com/cycu10627135/Compilers--Stack_Base/blob/master/stack.PNG "Stack")
